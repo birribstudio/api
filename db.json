@@ -51,7 +51,24 @@
             "content": "Neste projeto, desenvolvo uma animação muito divertida sobre escolher seu estilo em uma das marcas mais modernas do mercado streetwear, a VANS. Com foco em uma animação interativa de design de interface fluída, inspirada na plataforma de e-commerce da marca.",
             "role": "Designer e Animador",
             "status": true
+        },
+        {
+            "id": "vibezz",
+            "title": "Vibezz",
+            "subtitle": "Projeto Pessoal - VIBEZZ",
+            "imageUrl": "https://i.imgur.com/4vuwsUg.gif",
+            "lazyUrl": "https://i.imgur.com/OkqjzQ0.gif",
+            "timer": "0:15",
+            "videoUrl": "https://player.vimeo.com/video/948131458?title=0&byline=0&portrait=0",
+            "frame01": "https://raw.githubusercontent.com/birribstudio/api/main/vans-frame-01.png",
+            "frame02": "https://raw.githubusercontent.com/birribstudio/api/main/vans-frame-02.png",
+            "frame03": "https://raw.githubusercontent.com/birribstudio/api/main/vans-frame-03.png",
+            "frame04": "https://raw.githubusercontent.com/birribstudio/api/main/vans-frame-04.png",
+            "content": "Esse projeto foi desenvolvido para a agência vibezz",
+            "role": "Designer e Animador",
+            "status": true
         }
+        
     ],
 
     "desc": [
