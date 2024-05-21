@@ -1,12 +1,12 @@
 {
     "project": [
-                {
+        {
             "id": "vibezz",
             "title": "Vibezz",
-            "subtitle": "Projeto Pessoal - VIBEZZ",
-            "imageUrl": "https://i.imgur.com/UHbfvCP.gif",
-            "lazyUrl": "https://i.imgur.com/UHbfvCP.gif",
-            "timer": "0:15",
+            "subtitle": "Personal Project - VIBEZZ",
+            "imageUrl": "https://i.imgur.com/4vuwsUg.gif",
+            "lazyUrl": "https://i.imgur.com/OkqjzQ0.gif",
+            "timer": "00:15",
             "videoUrl": "https://player.vimeo.com/video/948131458?title=0&byline=0&portrait=0",
             "frame01": "https://raw.githubusercontent.com/birribstudio/api/main/vibe-01.png",
             "frame02": "https://raw.githubusercontent.com/birribstudio/api/main/vibe-02.png",
@@ -17,9 +17,41 @@
             "status": true
         },
         {
+            "id": "birrib",
+            "title": "Birrib Logo Animation",
+            "subtitle": "Projeto Pessoal - Birrib",
+            "imageUrl": "https://i.imgur.com/cc7lvSv.gif",
+            "lazyUrl": "https://i.imgur.com/cc7lvSv.gif",
+            "timer": "00:04",
+            "videoUrl": "https://player.vimeo.com/video/948844332?title=0&byline=0&portrait=0",
+            "frame01": "https://raw.githubusercontent.com/birribstudio/api/main/birrib.png",
+            "frame02": "",
+            "frame03": "",
+            "frame04": "",
+            "content": "Logo Animation for Birrib",
+            "role": "Designer e Animador",
+            "status": true
+        },
+        {
+            "id": "integramix",
+            "title": "Presentation Brand",
+            "subtitle": "Comercial Project - INTEGRAMIX",
+            "imageUrl": "[img]https://i.imgur.com/J0Ap98h.gif",
+            "lazyUrl": "[img]https://i.imgur.com/J0Ap98h.gif",
+            "timer": "0:58",
+            "videoUrl": "https://player.vimeo.com/video/948856401?title=0&byline=0&portrait=0",
+            "frame01": "https://raw.githubusercontent.com/birribstudio/api/main/integramix.png",
+            "frame02": "",
+            "frame03": "",
+            "frame04": "",
+            "content": "Brand Presentation for integramix",
+            "role": "Designer e Animador",
+            "status": true
+        },
+        {
             "id": "cinetica",
             "title": "Cinética",
-            "subtitle": "Projeto Pessoal - BIRRIB",
+            "subtitle": "Personal Project - BIRRIB",
             "imageUrl": "https://i.imgur.com/W5XM7Vl.gif",
             "lazyUrl": "https://i.imgur.com/VwRd1Wk.gif",
             "timer": "1:59",
@@ -39,7 +71,7 @@
         {
             "id": "eyehealth",
             "title": "Eye Health",
-            "subtitle": "Projeto Pessoal - BIRRIB",
+            "subtitle": "Personal Project - BIRRIB",
             "imageUrl": "https://i.imgur.com/YPe7jhV.gif",
             "lazyUrl": "https://i.imgur.com/F4MbQIb.gif",
             "timer": "0:22",
@@ -55,7 +87,7 @@
         {
             "id": "chooseyourstyle",
             "title": "Choose Your Style",
-            "subtitle": "Projeto Pessoal - BIRRIB",
+            "subtitle": "Personal Project - BIRRIB",
             "imageUrl": "https://i.imgur.com/4vuwsUg.gif",
             "lazyUrl": "https://i.imgur.com/OkqjzQ0.gif",
             "timer": "0:20",
@@ -68,7 +100,6 @@
             "role": "Designer e Animador",
             "status": true
         }
-        
     ],
 
     "desc": [
