@@ -25,9 +25,9 @@
             "timer": "00:04",
             "videoUrl": "https://player.vimeo.com/video/948844332?title=0&byline=0&portrait=0",
             "frame01": "https://raw.githubusercontent.com/birribstudio/api/main/birrib.png",
-            "frame02": "",
-            "frame03": "",
-            "frame04": "",
+            "frame02": "none",
+            "frame03": "none",
+            "frame04": "none",
             "content": "Logo Animation for Birrib",
             "role": "Designer e Animador",
             "status": true
