@@ -41,9 +41,9 @@
             "timer": "0:58",
             "videoUrl": "https://player.vimeo.com/video/948856401?title=0&byline=0&portrait=0",
             "frame01": "https://raw.githubusercontent.com/birribstudio/api/main/integramix.png",
-            "frame02": "",
-            "frame03": "",
-            "frame04": "",
+            "frame02": "none",
+            "frame03": "none",
+            "frame04": "none",
             "content": "Brand Presentation for integramix",
             "role": "Designer e Animador",
             "status": true
